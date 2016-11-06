@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeviceManager", "BrixelIoTClient\DeviceManager.csproj", "{40DC5641-BBC9-4E80-ABBE-0AAED25934B3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeviceManager", "DeviceManager\DeviceManager.csproj", "{40DC5641-BBC9-4E80-ABBE-0AAED25934B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudReader", "ReadDeviceToBrixelIoTHub\CloudReader.csproj", "{ABC5E040-339E-4A34-8B29-17383F317D18}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudReader", "CloudReader\CloudReader.csproj", "{ABC5E040-339E-4A34-8B29-17383F317D18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimulatedDevice", "SimulatedBrixelIoTDevice\SimulatedDevice.csproj", "{D85978CC-43FF-4B61-9484-29EF1DFB9389}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimulatedDevice", "SimulatedDevice\SimulatedDevice.csproj", "{D85978CC-43FF-4B61-9484-29EF1DFB9389}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
